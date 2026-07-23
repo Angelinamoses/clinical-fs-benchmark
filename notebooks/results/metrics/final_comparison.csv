@@ -1,0 +1,6 @@
+Feature Selection,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Clinical Features Selected,Clinical Relevance (%)
+LASSO,0.9678,0.9768,0.9722,0.9745,0.995,4,30.77
+Random Forest,0.9561,0.9633,0.9676,0.9653,0.9911,10,76.92
+mRMR,0.9532,0.9631,0.963,0.9629,0.9908,10,76.92
+ANOVA,0.9561,0.9633,0.9676,0.9653,0.9905,10,76.92
+Boruta,0.9298,0.9615,0.9259,0.9432,0.987,7,53.85
