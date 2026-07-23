@@ -35,10 +35,14 @@ This dataset is used because it is:
 
 The following feature selection methods are included:
 
-- **LASSO**
-- **ANOVA F-test**
+- Feature Selection Methods
+
+- **ANOVA**
 - **mRMR**
 - **Random Forest Feature Importance**
+- **LASSO**
+- **Boruta**
+
 
 ---
 
